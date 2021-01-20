@@ -8,7 +8,7 @@ with angularjs mixed in.
 - bash
 
 ## Docker stack
-- ubuntu:latest
+- python:latest
 
 ## To run
 `sudo ./install.sh -u`
